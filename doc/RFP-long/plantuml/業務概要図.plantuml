@@ -1,0 +1,29 @@
+@startuml
+
+rectangle Scope as "本プロジェクトの対象範囲" #white;line:black;line.dotted;text:black {
+    rectangle Branch1
+    rectangle Branch2
+    rectangle Store1
+    rectangle Store2
+    rectangle Store3
+    rectangle Store4
+}
+
+rectangle HQ
+
+HQ --->> Branch1 : 支社予算
+HQ --->> Branch2 : 支社予算
+HQ <<--- Branch1 : 支社実績
+HQ <<--- Branch2 : 支社実績
+
+Branch1 --->> Store1 : 店舗予算
+Branch1 --->> Store2 : 店舗予算
+Branch1 <<--- Store1 : 店舗実績
+Branch1 <<--- Store2 : 店舗実績
+
+Branch2 --->> Store3 : 店舗予算
+Branch2 --->> Store4 : 店舗予算
+Branch2 <<--- Store3 : 店舗実績
+Branch2 <<--- Store4 : 店舗実績
+
+@enduml

@@ -1,0 +1,9 @@
+@startuml
+
+start
+
+:LM1131 資料利用者登録;
+
+end
+
+@enduml

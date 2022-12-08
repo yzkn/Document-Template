@@ -1,0 +1,17 @@
+@startgantt
+
+[企画] lasts 7 days
+then [要件定義] lasts 7 days
+
+-- 提案依頼範囲 --
+
+[システム設計] starts at [要件定義]'s end and lasts 7 days
+[システム開発] starts at [システム設計]'s end and lasts 7 days
+[システムテスト] starts at [システム開発]'s end and lasts 7 days
+[移行準備] starts at [システムテスト]'s end and lasts 7 days
+
+[システムリリース] happens at [システム設計]'s end
+[システムリリース] happens at [システム開発]'s end
+[システムリリース] happens at [移行準備]'s end
+
+@endgantt

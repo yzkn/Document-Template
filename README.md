@@ -173,6 +173,10 @@
 ### 各図表のサンプル
 <a id="markdown-%E5%90%84%E5%9B%B3%E8%A1%A8%E3%81%AE%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB" name="%E5%90%84%E5%9B%B3%E8%A1%A8%E3%81%AE%E3%82%B5%E3%83%B3%E3%83%97%E3%83%AB"></a>
 
+#### [SWOT](https://www.ipa.go.jp/files/000079352.pdf#page=365)
+
+![P365](img/000079352_365.png "P365")
+
 #### [リッチピクチャ](https://www.itmedia.co.jp/im/articles/0404/16/news083.html)
 <a id="markdown-%E3%83%AA%E3%83%83%E3%83%81%E3%83%94%E3%82%AF%E3%83%81%E3%83%A3" name="%E3%83%AA%E3%83%83%E3%83%81%E3%83%94%E3%82%AF%E3%83%81%E3%83%A3"></a>
 

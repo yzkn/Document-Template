@@ -197,6 +197,15 @@
 
 ビジネスの全体像を表す。
 
+####[ステークホルダ関係図](https://www.ipa.go.jp/files/000079352.pdf#page=369)
+
+![P369](img/000079352_369.png "P369")
+
+####[ステークホルダ一覧](https://www.ipa.go.jp/files/000079352.pdf#page=370)
+
+![P370](img/000079352_370.png "P370")
+![P371](img/000079352_371.png "P371")
+
 #### [リッチピクチャ](https://www.itmedia.co.jp/im/articles/0404/16/news083.html)
 <a id="markdown-%E3%83%AA%E3%83%83%E3%83%81%E3%83%94%E3%82%AF%E3%83%81%E3%83%A3" name="%E3%83%AA%E3%83%83%E3%83%81%E3%83%94%E3%82%AF%E3%83%81%E3%83%A3"></a>
 

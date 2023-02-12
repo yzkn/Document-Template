@@ -628,12 +628,9 @@
 <a id="markdown-%E3%83%90%E3%83%83%E3%83%81%E5%87%A6%E7%90%86%E5%85%B1%E9%80%9A%E3%83%AB%E3%83%BC%E3%83%AB" name="%E3%83%90%E3%83%83%E3%83%81%E5%87%A6%E7%90%86%E5%85%B1%E9%80%9A%E3%83%AB%E3%83%BC%E3%83%AB"></a>
 
 <a href="img/000004501_30.png"><img src="img/000004501_30.png" height="64"></a>
-<a href="img/000004501_31.png"><img src="img/000004501_31.png" height="64"></a>
 <a href="img/000004501_32.png"><img src="img/000004501_32.png" height="64"></a>
 <a href="img/000004501_33.png"><img src="img/000004501_33.png" height="64"></a>
-<a href="img/000004501_34.png"><img src="img/000004501_34.png" height="64"></a>
 <a href="img/000004501_35.png"><img src="img/000004501_35.png" height="64"></a>
-<a href="img/000004501_36.png"><img src="img/000004501_36.png" height="64"></a>
 <a href="img/000004501_37.png"><img src="img/000004501_37.png" height="64"></a>
 <a href="img/000004501_38.png"><img src="img/000004501_38.png" height="64"></a>
 <a href="img/000004501_39.png"><img src="img/000004501_39.png" height="64"></a>

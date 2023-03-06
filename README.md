@@ -17,6 +17,12 @@
         - [As-Is／To-Be](#as-is%EF%BC%8Fto-be)
         - [プロジェクトの目的](#%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E7%9B%AE%E7%9A%84)
         - [プロジェクトのスコープ](#%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%97)
+    - [プロジェクトの課題](#%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E8%AA%B2%E9%A1%8C)
+        - [調査表（内部環境）](#%E8%AA%BF%E6%9F%BB%E8%A1%A8%E5%86%85%E9%83%A8%E7%92%B0%E5%A2%83)
+        - [調査表（外部環境）](#%E8%AA%BF%E6%9F%BB%E8%A1%A8%E5%A4%96%E9%83%A8%E7%92%B0%E5%A2%83)
+        - [課題一覧表](#%E8%AA%B2%E9%A1%8C%E4%B8%80%E8%A6%A7%E8%A1%A8)
+        - [プロジェクトの課題](#%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E8%AA%B2%E9%A1%8C)
+        - [ビジネス化目標定義書](#%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E5%8C%96%E7%9B%AE%E6%A8%99%E5%AE%9A%E7%BE%A9%E6%9B%B8)
     - [SWOT](#swot)
     - [バランススコアカード（BSC）](#%E3%83%90%E3%83%A9%E3%83%B3%E3%82%B9%E3%82%B9%E3%82%B3%E3%82%A2%E3%82%AB%E3%83%BC%E3%83%89bsc)
     - [ビジネスモデルキャンパス](#%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%91%E3%82%B9)
@@ -332,6 +338,34 @@
 <a id="markdown-%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%97" name="%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%97"></a>
 
 <a href="img/000004898_4.png"><img src="img/000004898_4.png" height="128"></a>
+
+## [プロジェクトの課題](https://www.ipa.go.jp/sec/softwareengineering/tool/ep/ep1.html)
+<a id="markdown-%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E8%AA%B2%E9%A1%8C" name="%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E8%AA%B2%E9%A1%8C"></a>
+
+### 調査表（内部環境）
+<a id="markdown-%E8%AA%BF%E6%9F%BB%E8%A1%A8%EF%BC%88%E5%86%85%E9%83%A8%E7%92%B0%E5%A2%83%EF%BC%89" name="%E8%AA%BF%E6%9F%BB%E8%A1%A8%EF%BC%88%E5%86%85%E9%83%A8%E7%92%B0%E5%A2%83%EF%BC%89"></a>
+
+<a href="img/000005005_1.png"><img src="img/000005005_1.png" height="128"></a>
+
+### 調査表（外部環境）
+<a id="markdown-%E8%AA%BF%E6%9F%BB%E8%A1%A8%EF%BC%88%E5%A4%96%E9%83%A8%E7%92%B0%E5%A2%83%EF%BC%89" name="%E8%AA%BF%E6%9F%BB%E8%A1%A8%EF%BC%88%E5%A4%96%E9%83%A8%E7%92%B0%E5%A2%83%EF%BC%89"></a>
+
+<a href="img/000004996_1.png"><img src="img/000004996_1.png" height="128"></a>
+
+### 課題一覧表
+<a id="markdown-%E8%AA%B2%E9%A1%8C%E4%B8%80%E8%A6%A7%E8%A1%A8" name="%E8%AA%B2%E9%A1%8C%E4%B8%80%E8%A6%A7%E8%A1%A8"></a>
+
+<a href="img/000005003_1.png"><img src="img/000005003_1.png" height="128"></a>
+
+### プロジェクトの課題
+<a id="markdown-%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E8%AA%B2%E9%A1%8C" name="%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E3%81%AE%E8%AA%B2%E9%A1%8C"></a>
+
+<a href="img/000004899_1.png"><img src="img/000004899_1.png" height="128"></a>
+
+### ビジネス化目標定義書
+<a id="markdown-%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E5%8C%96%E7%9B%AE%E6%A8%99%E5%AE%9A%E7%BE%A9%E6%9B%B8" name="%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E5%8C%96%E7%9B%AE%E6%A8%99%E5%AE%9A%E7%BE%A9%E6%9B%B8"></a>
+
+<a href="img/000004954_1.png"><img src="img/000004954_1.png" height="128"></a>
 
 ## [SWOT](https://www.ipa.go.jp/files/000079352.pdf#page=365)
 <a id="markdown-swot" name="swot"></a>

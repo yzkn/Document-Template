@@ -950,6 +950,7 @@
   - [特許庁システム設計・開発ガイドライン（システム刷新&システム構築編）（第1.6版）](https://www.jpo.go.jp/system/laws/sesaku/gyomu/system_kouchiku_16.html)
 - IPA
   - [ユーザのための要件定義ガイド 第2版](https://www.ipa.go.jp/ikc/publish/tn19-002.html)
+  - [超上流から攻めるIT化の事例集：システム化の方向性と計画](https://www.ipa.go.jp/sec/softwareengineering/tool/ep/ep1.html)
 
 ---
 

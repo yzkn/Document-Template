@@ -289,6 +289,10 @@
   - [超上流から攻めるIT化の事例集：システム化の方向性と計画](https://www.ipa.go.jp/sec/softwareengineering/tool/ep/ep1.html)
 - 総務省
   - [パッケージソフトに対する要求仕様書（サンプル）](https://www.soumu.go.jp/main_content/000127534.pdf)
+- デジタル庁
+  - [デジタル社会推進標準ガイドライン](https://www.digital.go.jp/resources/standard_guidelines/)
+  - [ウェブアクセシビリティ導入ガイドブック](https://www.digital.go.jp/resources/introduction-to-web-accessibility-guidebook/)
+  - [デザインシステム](https://www.digital.go.jp/policies/servicedesign/designsystem/)
 
 ---
 

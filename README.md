@@ -280,19 +280,24 @@
 
 ## 参考文献
 
+### 官公庁
+
 - 特許庁
   - [特許庁システム設計・開発ガイドライン（システム刷新&システム構築編）（第1.6版）](https://www.jpo.go.jp/system/laws/sesaku/gyomu/system_kouchiku_16.html)
 - 経済産業省
   - [要求仕様定義ガイドライン](https://juas.or.jp/cms/media/2022/09/uvc_project_report_2007.pdf)
-- IPA
-  - [ユーザのための要件定義ガイド 第2版](https://www.ipa.go.jp/ikc/publish/tn19-002.html)
-  - [超上流から攻めるIT化の事例集：システム化の方向性と計画](https://www.ipa.go.jp/sec/softwareengineering/tool/ep/ep1.html)
 - 総務省
   - [パッケージソフトに対する要求仕様書（サンプル）](https://www.soumu.go.jp/main_content/000127534.pdf)
 - デジタル庁
   - [デジタル社会推進標準ガイドライン](https://www.digital.go.jp/resources/standard_guidelines/)
   - [ウェブアクセシビリティ導入ガイドブック](https://www.digital.go.jp/resources/introduction-to-web-accessibility-guidebook/)
   - [デザインシステム](https://www.digital.go.jp/policies/servicedesign/designsystem/)
+
+### 独立行政法人
+
+- IPA
+  - [ユーザのための要件定義ガイド 第2版](https://www.ipa.go.jp/ikc/publish/tn19-002.html)
+  - [超上流から攻めるIT化の事例集：システム化の方向性と計画](https://www.ipa.go.jp/sec/softwareengineering/tool/ep/ep1.html)
 
 ---
 

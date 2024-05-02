@@ -1,0 +1,17 @@
+﻿$dst = "C:\Users\Y\Documents\GitHub\Document-Template\ref\経済産業省\meti_lib\report\2022FY\"
+
+$files = Get-ChildItem -File "C:\Users\Y\OneDrive\デスクトップ\ref\経済産業省\meti_lib\report\2022FY\"
+
+foreach ($item in $files) {
+    if ($item.PSIsContainer) {
+        Write-Host ($item.fullname + ' : dir');
+    }
+    else {
+        Write-Host $item.fullname;
+        Write-Host( 'Move-Item -Path ' + $item.fullname + ' -Destination ' + $dst );
+        Move-Item -Path $item.fullname -Destination $dst
+        git add .
+        git commit -m "Updates"
+        git push
+    }
+}

@@ -1,5 +1,6 @@
 ref/IPA/
 ref/一般社団法人専門職高等教育質保証機構/
-ref/民間/
+ref/民間/*
+!ref/民間/TIS
 *.ps1
 ~$*.docx
